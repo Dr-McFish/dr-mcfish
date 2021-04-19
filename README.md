@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### I’m currently learning:
-- The C prograing language
-- [Sonic Pi](https://sonic-pi.net) (a cool programing language for music)
+### My coolest reposetories:
+- [POP Option Parser C library](https://github.com/Dr-McFish/POP-option-parser)
+- [SDL PONG](https://github.com/Dr-McFish/SDL2-Pong)
 
 ### Contact me
 
