@@ -12,7 +12,7 @@ comming soon
 - C / C++
 - C#
 - python
-- java (for mincraft mods)
+- java
 <!--
 **Dr-McFish/dr-mcfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
